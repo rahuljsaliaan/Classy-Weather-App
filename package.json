@@ -1,6 +1,7 @@
 {
   "name": "classy-weather-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "Experience Classy-Weather-App: Your elegant weather companion, offering precise and stylish updates for your day. Enjoy its classic interface and timeless font, staying connected with nature effortlessly",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -17,6 +18,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "author": "Rahul J",
+  "license":"MIT",
   "eslintConfig": {
     "extends": [
       "react-app",
