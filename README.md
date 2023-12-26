@@ -25,6 +25,7 @@ Experience the elegance of Classy-Weather-App by exploring the live demo of the 
 ## Technologies Used
 
 - React
+- Class Components
 - CSS3
 - JavaScript
 - Netlify (for deployment)
